@@ -1,7 +1,7 @@
 {
-    "name": "LuciferMoringstar_Robot",
+    "name": "Mɪᴄʜᴇᴀʟ",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
-    "logo": "https://telegra.ph/file/467eea43b4d6cf2243e72.jpg",
+    "logo": "https://telegra.ph/file/4b2b85ebfd94e3bb34ea9.jpgp",
     "keywords": [
       "telegram",
       "auto-filter",
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot",
-    "repository": "https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot",
+    "website": "https://github.com/SFBOTS/LuciferMoringstar_Robot",
+    "repository": "https://github.com/SFBOTS/LuciferMoringstar_Robot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
