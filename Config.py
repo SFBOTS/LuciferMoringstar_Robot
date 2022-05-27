@@ -36,7 +36,7 @@ AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 auth_channel = environ.get('FORCES_SUB')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else auth_channel
 AUTH_GROUPS = [int(admin) for admin in environ.get("AUTH_GROUPS", "").split()]
-TUTORIAL = "https://t.me/SFS_ST"
+TUTORIAL = "https://t.me/S_F_S_OFG_02"
 # MongoDB information
 DATABASE_URI = environ['DATABASE_2']
 DATABASE_NAME = "LuciferMoringstar_Robot"
